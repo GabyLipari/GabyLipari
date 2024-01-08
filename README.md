@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GabyLipari
-- 👀 I’m interested in HTML5 | CSS3 | JS | PHP | Wordpress
-- 🌱 I’m currently learning JS and PHP
+- 🌱 I’m currently SCRUM Product Owner
 
 <!---
 GabyDev-BR/GabyDev-BR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
